@@ -13,8 +13,8 @@ Instructions
 Questions
 ---------
 
-1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:**
-1. What are the stages in their proposed career path for testers? **Answer:**
+1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:** People leave because a career in testing is considered undesirable and unchallenging, and also is not the important to product success.
+1. What are the stages in their proposed career path for testers? **Answer:** Software Tester, Software Test Engineer, Software Test Specialist, Lead Software Test Specialist
 
 Prerequisites
 -------------
